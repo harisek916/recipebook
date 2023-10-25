@@ -5,3 +5,5 @@ ingredience :
     onion 1kg
     ghee 100g
     chicken 1kg
+    nuts 100gm
+    water 5cups
